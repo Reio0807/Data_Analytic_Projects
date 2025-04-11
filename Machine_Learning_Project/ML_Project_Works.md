@@ -14,7 +14,7 @@ Additionally, what are the **optimal conditions** for maintaining a **stable bik
 
 ## **Data Source**
 📊 **Dataset**: Seoul Bike Sharing System (8,760 instances)  
-🔗 **Source**: [Seoul Bike Sharing Data]([https://data.seoul.go.kr/](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand))  
+🔗 **Source**: [Seoul Bike Sharing Data]([https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand])  
 
 ---
 
